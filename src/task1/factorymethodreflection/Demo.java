@@ -1,6 +1,6 @@
-package task1.factorymethosreflection;
+package task1.factorymethodreflection;
 
-import static task1.factorymethosreflection.Factory.createHouse;
+import static task1.factorymethodreflection.Factory.createHouse;
 
 /**
  * Created by Silvia Petrova(silviqpetrova1992@gmail.com)on 6/25/15.

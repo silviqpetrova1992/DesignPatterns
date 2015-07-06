@@ -1,4 +1,4 @@
-package task1.factorymethodnew;
+package task1.factorymethodreflection;
 
 /**
  * Created by Silvia Petrova(silviqpetrova1992@gmail.com)on 6/25/15.

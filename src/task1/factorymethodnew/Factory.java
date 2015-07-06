@@ -6,10 +6,10 @@ package task1.factorymethodnew;
 public class Factory {
   public  House createHouse(String house){
     if(house.equalsIgnoreCase("WOODEN")){
-      return new WoodenHouse();
+      return new House(new WoodenMessages());
     }
     if(house.equalsIgnoreCase("BRICKS")){
-      return new BricksHouse();
+      return new House(new BricksMessages());
     }
     return null;
   }
